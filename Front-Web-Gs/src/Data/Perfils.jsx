@@ -2,7 +2,7 @@ export const profissionais = [
 {
 id: 1,
 nome: "Ana Beatriz Gomes",
-foto: "./images/foto1.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Engenheira de Software",
 resumo: "Especialista em desenvolvimento full stack.",
 localizacao: "São Paulo/SP",
@@ -52,7 +52,7 @@ areaInteresses: ["Design inclusivo", "Experiência do usuário"]
 {
 id: 3,
 nome: "Carla Nogueira",
-foto: "./images/foto3.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Cientista de Dados",
 resumo: "Modelagem estatística e machine learning.",
 localizacao: "Belo Horizonte/MG",
@@ -100,7 +100,7 @@ areaInteresses: ["Automação", "Mobile First"]
 {
 id: 5,
 nome: "Eduarda Cruz",
-foto: "./images/foto5.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Gerente de Projetos",
 resumo: "Experiência em metodologias ágeis.",
 localizacao: "Brasília/DF",
@@ -146,7 +146,7 @@ areaInteresses: ["Cloud", "SRE", "Infraestrutura"]
 {
 id: 7,
 nome: "Gabriela Lima",
-foto: "./images/foto7.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Analista de Marketing Digital",
 resumo: "Expert em tráfego pago e branding.",
 localizacao: "Salvador/BA",
@@ -192,7 +192,7 @@ areaInteresses: ["Microservices", "Cloud Native"]
 {
 id: 9,
 nome: "Isabela Rocha",
-foto: "./images/foto9.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Product Owner",
 resumo: "Conecta negócio e tecnologia.",
 localizacao: "Belo Horizonte/MG",
@@ -238,7 +238,7 @@ areaInteresses: ["UI", "Arquitetura Front-end"]
 {
 id: 11,
 nome: "Karla Menezes",
-foto: "./images/foto11.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "QA Engineer",
 resumo: "Especialista em testes automatizados.",
 localizacao: "Natal/RN",
@@ -284,7 +284,7 @@ areaInteresses: ["IA ética", "Modelos generativos"]
 {
 id: 13,
 nome: "Mariana Couto",
-foto: "./images/foto13.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Analista de RH",
 resumo: "Foco em recrutamento tech.",
 localizacao: "Rio de Janeiro/RJ",
@@ -330,7 +330,7 @@ areaInteresses: ["Cybersecurity", "Automação de redes"]
 {
 id: 15,
 nome: "Olívia Castro",
-foto: "./images/foto15.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Data Engineer",
 resumo: "Pipelines de dados escaláveis.",
 localizacao: "Curitiba/PR",
@@ -376,7 +376,7 @@ areaInteresses: ["Performance", "Arquiteturas reativas"]
 {
 id: 17,
 nome: "Queila Andrade",
-foto: "./images/foto17.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Especialista em Segurança da Informação",
 resumo: "Proteção de ambientes empresariais.",
 localizacao: "Recife/PE",
@@ -422,7 +422,7 @@ areaInteresses: ["Data Visualization", "Business"]
 {
 id: 19,
 nome: "Sara Ribeiro",
-foto: "./images/foto19.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Full Stack Developer",
 resumo: "Aplicações web escaláveis.",
 localizacao: "Rio de Janeiro/RJ",
@@ -468,7 +468,7 @@ areaInteresses: ["Big Data", "SGBDs"]
 {
 id: 21,
 nome: "Ursula Mendes",
-foto: "./images/foto21.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Scrum Master",
 resumo: "Facilitadora de times ágeis.",
 localizacao: "São Paulo/SP",
@@ -537,7 +537,7 @@ areaInteresses: ["Design System", "Acessibilidade"]
 {
 id: 24,
 nome: "Ximena Duarte",
-foto: "./images/foto24.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Engenheira de Dados",
 resumo: "Especialista em ETL e arquitetura de dados.",
 localizacao: "São Paulo/SP",
@@ -583,7 +583,7 @@ areaInteresses: ["Backend", "Segurança"]
 {
 id: 26,
 nome: "Zara Mota",
-foto: "./images/foto26.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Analista de Suporte",
 resumo: "Suporte técnico nível 2.",
 localizacao: "Fortaleza/CE",
@@ -606,7 +606,7 @@ areaInteresses: ["Infraestrutura", "Suporte"]
 {
 id: 27,
 nome: "Aline Rebouças",
-foto: "./images/foto27.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Especialista em Cloud",
 resumo: "Arquitetura AWS.",
 localizacao: "São Paulo/SP",
@@ -652,7 +652,7 @@ areaInteresses: ["Telecom", "Infraestrutura"]
 {
 id: 29,
 nome: "Carolina Duarte",
-foto: "./images/foto29.jpg",
+foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
 cargo: "Gerente de Produtos",
 resumo: "Estratégia e roadmap.",
 localizacao: "São Paulo/SP",
@@ -698,60 +698,60 @@ areaInteresses: ["Automações", "Data Engineering"]
 {
 id: 31, nome: "Eduardo Teixeira", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Cientista de Dados", resumo: "Modelagem avançada.", localizacao: "Campo Grande/MS", area: "Dados", habilidadesTecnicas: ["Python", "TensorFlow", "SQL"], softSkills: ["Análise crítica"], experiencias: [{ empresa: "DataX", cargo: "Analista", inicio: "2020-01", fim: "2024-06", descricao: "Modelos de classificação." }], formacao: [{ curso: "Computação", instituicao: "UFMS", ano: 2019 }], projetos: [{ titulo: "Classificador ML", link: "https://github.com/proj31", descricao: "Modelo de detecção." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["IA", "Modelos Estatísticos"] },
 {
-id: 32, nome: "Fernanda Luz", foto: "./images/foto32.jpg", cargo: "UX Researcher", resumo: "Pesquisa e testes com usuários.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["UX Research", "Figma"], softSkills: ["Empatia"], experiencias: [{ empresa: "DesignUP", cargo: "Researcher", inicio: "2018-03", fim: "2024-06", descricao: "Testes de usabilidade." }], formacao: [{ curso: "Psicologia", instituicao: "PUC", ano: 2017 }], projetos: [{ titulo: "Pesquisa app saúde", link: "https://github.com/proj32", descricao: "Entrevistas com usuários." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["UX", "Acessibilidade"] },
+id: 32, nome: "Fernanda Luz", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "UX Researcher", resumo: "Pesquisa e testes com usuários.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["UX Research", "Figma"], softSkills: ["Empatia"], experiencias: [{ empresa: "DesignUP", cargo: "Researcher", inicio: "2018-03", fim: "2024-06", descricao: "Testes de usabilidade." }], formacao: [{ curso: "Psicologia", instituicao: "PUC", ano: 2017 }], projetos: [{ titulo: "Pesquisa app saúde", link: "https://github.com/proj32", descricao: "Entrevistas com usuários." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["UX", "Acessibilidade"] },
 {
 id: 33, nome: "Gustavo Rocha", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Dev Mobile", resumo: "Flutter e React Native.", localizacao: "Belém/PA", area: "Mobile", habilidadesTecnicas: ["Flutter", "React Native"], softSkills: ["Criatividade"], experiencias: [{ empresa: "MobileFirst", cargo: "Dev", inicio: "2021-02", fim: "2024-06", descricao: "Apps multiplataforma." }], formacao: [{ curso: "Sistemas", instituicao: "UFPA", ano: 2020 }], projetos: [{ titulo: "App delivery", link: "https://github.com/proj33", descricao: "App completo." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Mobile", "UX"] },
 {
-id: 34, nome: "Helena Barros", foto: "./images/foto34.jpg", cargo: "Analista Financeira", resumo: "Especialista em dados financeiros.", localizacao: "São Paulo/SP", area: "Finanças", habilidadesTecnicas: ["Excel", "Power BI"], softSkills: ["Atenção"], experiencias: [{ empresa: "FinPlus", cargo: "Analista", inicio: "2019-01", fim: "2024-06", descricao: "Relatórios financeiros." }], formacao: [{ curso: "Economia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Dashboard financeiro", link: "https://github.com/proj34", descricao: "Métricas financeiras." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Finanças", "Analytics"] },
+id: 34, nome: "Helena Barros", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Analista Financeira", resumo: "Especialista em dados financeiros.", localizacao: "São Paulo/SP", area: "Finanças", habilidadesTecnicas: ["Excel", "Power BI"], softSkills: ["Atenção"], experiencias: [{ empresa: "FinPlus", cargo: "Analista", inicio: "2019-01", fim: "2024-06", descricao: "Relatórios financeiros." }], formacao: [{ curso: "Economia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Dashboard financeiro", link: "https://github.com/proj34", descricao: "Métricas financeiras." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Finanças", "Analytics"] },
 {
 id: 35, nome: "Igor Carvalho", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "DevOps", resumo: "Ciclos CI/CD.", localizacao: "Curitiba/PR", area: "DevOps", habilidadesTecnicas: ["Docker", "K8s"], softSkills: ["Resiliência"], experiencias: [{ empresa: "OpsLab", cargo: "DevOps", inicio: "2020-01", fim: "2024-06", descricao: "Pipelines automatizados." }], formacao: [{ curso: "Computação", instituicao: "UTFPR", ano: 2019 }], projetos: [{ titulo: "Pipeline CI", link: "https://github.com/proj35", descricao: "Deploy automatizado." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["Cloud", "DevOps"] },
 {
-id: 36, nome: "Juliana Torres", foto: "./images/foto36.jpg", cargo: "Product Manager", resumo: "Gestão de produtos SaaS.", localizacao: "São Paulo/SP", area: "Produto", habilidadesTecnicas: ["Scrum", "Discovery"], softSkills: ["Estratégia"], experiencias: [{ empresa: "Prodify", cargo: "PM", inicio: "2020-02", fim: "2024-06", descricao: "Estratégia de produto." }], formacao: [{ curso: "Administração", instituicao: "Mackenzie", ano: 2019 }], projetos: [{ titulo: "Produto B2B", link: "https://github.com/proj36", descricao: "Roadmap." }], certificacoes: ["PMI"], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["Produto", "UX"] },
+id: 36, nome: "Juliana Torres", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Product Manager", resumo: "Gestão de produtos SaaS.", localizacao: "São Paulo/SP", area: "Produto", habilidadesTecnicas: ["Scrum", "Discovery"], softSkills: ["Estratégia"], experiencias: [{ empresa: "Prodify", cargo: "PM", inicio: "2020-02", fim: "2024-06", descricao: "Estratégia de produto." }], formacao: [{ curso: "Administração", instituicao: "Mackenzie", ano: 2019 }], projetos: [{ titulo: "Produto B2B", link: "https://github.com/proj36", descricao: "Roadmap." }], certificacoes: ["PMI"], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["Produto", "UX"] },
 {
 id: 37, nome: "Kleber Moraes", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Engenheiro QA", resumo: "Testes automatizados.", localizacao: "Brasília/DF", area: "Qualidade", habilidadesTecnicas: ["Selenium", "JUnit"], softSkills: ["Atenção"], experiencias: [{ empresa: "TestPlus", cargo: "QA", inicio: "2020-01", fim: "2024-06", descricao: "Cobertura de testes." }], formacao: [{ curso: "Computação", instituicao: "UnB", ano: 2019 }], projetos: [{ titulo: "Test automation", link: "https://github.com/proj37", descricao: "Pipeline." }], certificacoes: ["ISTQB"], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["QA", "Automação"] },
 {
-id: 38, nome: "Larissa Prado", foto: "./images/foto38.jpg", cargo: "Engenheira de Dados", resumo: "ETL e Big Data.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["Spark", "Kafka"], softSkills: ["Organização"], experiencias: [{ empresa: "DataFlow", cargo: "DE", inicio: "2019-04", fim: "2024-06", descricao: "ETL escalável." }], formacao: [{ curso: "Computação", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Data lake", link: "https://github.com/proj38", descricao: "Plataforma." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["Dados", "Pipelines"] },
+id: 38, nome: "Larissa Prado", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Engenheira de Dados", resumo: "ETL e Big Data.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["Spark", "Kafka"], softSkills: ["Organização"], experiencias: [{ empresa: "DataFlow", cargo: "DE", inicio: "2019-04", fim: "2024-06", descricao: "ETL escalável." }], formacao: [{ curso: "Computação", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Data lake", link: "https://github.com/proj38", descricao: "Plataforma." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["Dados", "Pipelines"] },
 {
 id: 39, nome: "Marcos Nunes", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Desenvolvedor C#", resumo: "APIs e sistemas corporativos.", localizacao: "Joinville/SC", area: "Desenvolvimento", habilidadesTecnicas: ["C#", ".NET", "SQL"], softSkills: ["Foco"], experiencias: [{ empresa: "SoftCorp", cargo: "Dev", inicio: "2018-01", fim: "2024-06", descricao: "Sistemas internos." }], formacao: [{ curso: "Sistemas", instituicao: "UFSC", ano: 2017 }], projetos: [{ titulo: "ERP interno", link: "https://github.com/proj39", descricao: "Sistema corporativo." }], certificacoes: ["Microsoft .NET"], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Backend", ".NET"] },
 {
-id: 40, nome: "Natália Rocha", foto: "./images/foto40.jpg", cargo: "Graphic Designer", resumo: "Identidade visual moderna.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["Illustrator", "Photoshop"], softSkills: ["Criatividade"], experiencias: [{ empresa: "DesignPro", cargo: "Designer", inicio: "2019-05", fim: "2024-06", descricao: "Branding." }], formacao: [{ curso: "Design Gráfico", instituicao: "SENAC", ano: 2018 }], projetos: [{ titulo: "Identidade visual", link: "https://github.com/proj40", descricao: "Marca completa." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Branding", "Arte"] },
+id: 40, nome: "Natália Rocha", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Graphic Designer", resumo: "Identidade visual moderna.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["Illustrator", "Photoshop"], softSkills: ["Criatividade"], experiencias: [{ empresa: "DesignPro", cargo: "Designer", inicio: "2019-05", fim: "2024-06", descricao: "Branding." }], formacao: [{ curso: "Design Gráfico", instituicao: "SENAC", ano: 2018 }], projetos: [{ titulo: "Identidade visual", link: "https://github.com/proj40", descricao: "Marca completa." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Branding", "Arte"] },
 {
 id: 41, nome: "Otávio Linhares", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Dev FullStack", resumo: "Node e React.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["Node", "React", "SQL"], softSkills: ["Comunicação"], experiencias: [{ empresa: "CodeX", cargo: "Dev", inicio: "2020-02", fim: "2024-06", descricao: "Sistemas web." }], formacao: [{ curso: "Engenharia", instituicao: "USP", ano: 2019 }], projetos: [{ titulo: "E-commerce", link: "https://github.com/proj41", descricao: "Loja virtual." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Web", "Sistemas"] },
 {
-id: 42, nome: "Patrícia Souza", foto: "./images/foto42.jpg", cargo: "Engenheira Ambiental", resumo: "Análises ambientais.", localizacao: "Curitiba/PR", area: "Ambiental", habilidadesTecnicas: ["GIS", "AutoCAD"], softSkills: ["Comunicação"], experiencias: [{ empresa: "EcoPlus", cargo: "Engenheira", inicio: "2019-01", fim: "2024-06", descricao: "Relatórios ambientais." }], formacao: [{ curso: "Engenharia Ambiental", instituicao: "UFPR", ano: 2018 }], projetos: [{ titulo: "Mapa ambiental", link: "https://github.com/proj42", descricao: "Mapeamento." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Sustentabilidade"] },
+id: 42, nome: "Patrícia Souza", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Engenheira Ambiental", resumo: "Análises ambientais.", localizacao: "Curitiba/PR", area: "Ambiental", habilidadesTecnicas: ["GIS", "AutoCAD"], softSkills: ["Comunicação"], experiencias: [{ empresa: "EcoPlus", cargo: "Engenheira", inicio: "2019-01", fim: "2024-06", descricao: "Relatórios ambientais." }], formacao: [{ curso: "Engenharia Ambiental", instituicao: "UFPR", ano: 2018 }], projetos: [{ titulo: "Mapa ambiental", link: "https://github.com/proj42", descricao: "Mapeamento." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Sustentabilidade"] },
 {
 id: 43, nome: "Rafael Martins", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Arquiteto de Redes", resumo: "Projetos de infraestrutura.", localizacao: "São Paulo/SP", area: "Infraestrutura", habilidadesTecnicas: ["Cisco", "BGP"], softSkills: ["Planejamento"], experiencias: [{ empresa: "NetInfra", cargo: "Arquiteto", inicio: "2017-04", fim: "2024-06", descricao: "Projetos de rede." }], formacao: [{ curso: "Redes", instituicao: "FATEC", ano: 2016 }], projetos: [{ titulo: "Rede corporativa", link: "https://github.com/proj43", descricao: "Arquitetura completa." }], certificacoes: ["CCIE"], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["Telecom"] },
 {
-id: 44, nome: "Sabrina Melo", foto: "./images/foto44.jpg", cargo: "Analista de Dados", resumo: "SQL e relatórios.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["SQL", "Power BI"], softSkills: ["Detalhismo"], experiencias: [{ empresa: "AnalyticsCo", cargo: "Analista", inicio: "2018-02", fim: "2024-06", descricao: "Dashboard." }], formacao: [{ curso: "Estatística", instituicao: "USP", ano: 2017 }], projetos: [{ titulo: "Visualização", link: "https://github.com/proj44", descricao: "Relatórios." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Analytics"] },
+id: 44, nome: "Sabrina Melo", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Analista de Dados", resumo: "SQL e relatórios.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["SQL", "Power BI"], softSkills: ["Detalhismo"], experiencias: [{ empresa: "AnalyticsCo", cargo: "Analista", inicio: "2018-02", fim: "2024-06", descricao: "Dashboard." }], formacao: [{ curso: "Estatística", instituicao: "USP", ano: 2017 }], projetos: [{ titulo: "Visualização", link: "https://github.com/proj44", descricao: "Relatórios." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Analytics"] },
 {
 id: 45, nome: "Tiago Borges", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Front-end Developer", resumo: "SPAs modernas.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["React", "Next"], softSkills: ["Comunicação"], experiencias: [{ empresa: "WebCo", cargo: "Dev", inicio: "2021-01", fim: "2024-06", descricao: "Interfaces." }], formacao: [{ curso: "Sistemas", instituicao: "UNIP", ano: 2020 }], projetos: [{ titulo: "Landing page", link: "https://github.com/proj45", descricao: "Marketing." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Frontend", "UI"] },
 {
 id: 46, nome: "Ueslei Santos", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Backend .NET", resumo: "APIs e integrações.", localizacao: "São Paulo/SP", area: "Desenvolvimento", habilidadesTecnicas: ["C#", ".NET", "Azure"], softSkills: ["Foco"], experiencias: [{ empresa: "SoftMax", cargo: "Developer", inicio: "2020-01", fim: "2024-06", descricao: "Integrações REST." }], formacao: [{ curso: "Computação", instituicao: "FATEC", ano: 2019 }], projetos: [{ titulo: "API pública", link: "https://github.com/proj46", descricao: "Integração." }], certificacoes: ["Azure Developer"], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: [".NET", "Cloud"] },
 {
-id: 47, nome: "Viviane Prado", foto: "./images/foto47.jpg", cargo: "Gestora de Projetos", resumo: "Projetos estratégicos.", localizacao: "São Paulo/SP", area: "Gestão", habilidadesTecnicas: ["PMBOK", "Kanban"], softSkills: ["Liderança"], experiencias: [{ empresa: "PMO Corp", cargo: "Gestora", inicio: "2018-02", fim: "2024-06", descricao: "Gestão corporativa." }], formacao: [{ curso: "Administração", instituicao: "FGV", ano: 2017 }], projetos: [{ titulo: "Projeto estratégico", link: "https://github.com/proj47", descricao: "Estratégia." }], certificacoes: ["PMP"], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["Gestão", "Estratégia"] },
+id: 47, nome: "Viviane Prado", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Gestora de Projetos", resumo: "Projetos estratégicos.", localizacao: "São Paulo/SP", area: "Gestão", habilidadesTecnicas: ["PMBOK", "Kanban"], softSkills: ["Liderança"], experiencias: [{ empresa: "PMO Corp", cargo: "Gestora", inicio: "2018-02", fim: "2024-06", descricao: "Gestão corporativa." }], formacao: [{ curso: "Administração", instituicao: "FGV", ano: 2017 }], projetos: [{ titulo: "Projeto estratégico", link: "https://github.com/proj47", descricao: "Estratégia." }], certificacoes: ["PMP"], idiomas: [{ idioma: "Inglês", nivel: "Fluente" }], areaInteresses: ["Gestão", "Estratégia"] },
 {
 id: 48, nome: "William Souza", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Analista de Sistemas", resumo: "Documentação e modelagem.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["UML", "SQL"], softSkills: ["Organização"], experiencias: [{ empresa: "SysTech", cargo: "Analista", inicio: "2020-01", fim: "2024-06", descricao: "Modelagem de sistemas." }], formacao: [{ curso: "Sistemas", instituicao: "UNIP", ano: 2019 }], projetos: [{ titulo: "Sistema X", link: "https://github.com/proj48", descricao: "Modelagem." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Sistemas"] },
 {
 id: 49, nome: "Xavier Costa", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Engenheiro Eletrônico", resumo: "Circuitos e embarcados.", localizacao: "Campinas/SP", area: "Eletrônica", habilidadesTecnicas: ["C", "Arduino"], softSkills: ["Criatividade"], experiencias: [{ empresa: "ElectroCo", cargo: "Engenheiro", inicio: "2019-03", fim: "2024-06", descricao: "Eletrônica." }], formacao: [{ curso: "Engenharia Eletrônica", instituicao: "UNICAMP", ano: 2018 }], projetos: [{ titulo: "IoT device", link: "https://github.com/proj49", descricao: "Dispositivo IoT." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["IoT"] },
 {
-id: 50, nome: "Yasmin Gomes", foto: "./images/foto50.jpg", cargo: "Dev Front-end Júnior", resumo: "React e HTML.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["React", "HTML", "CSS"], softSkills: ["Comunicação"], experiencias: [{ empresa: "WebStart", cargo: "Estagiária", inicio: "2022-01", fim: "2024-06", descricao: "Front-end." }], formacao: [{ curso: "Sistemas", instituicao: "Senac", ano: 2023 }], projetos: [{ titulo: "Portfólio", link: "https://github.com/proj50", descricao: "Site pessoal." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Frontend"] },
+id: 50, nome: "Yasmin Gomes", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Dev Front-end Júnior", resumo: "React e HTML.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["React", "HTML", "CSS"], softSkills: ["Comunicação"], experiencias: [{ empresa: "WebStart", cargo: "Estagiária", inicio: "2022-01", fim: "2024-06", descricao: "Front-end." }], formacao: [{ curso: "Sistemas", instituicao: "Senac", ano: 2023 }], projetos: [{ titulo: "Portfólio", link: "https://github.com/proj50", descricao: "Site pessoal." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Frontend"] },
 {
-id: 51, nome: "Zilda Menezes", foto: "./images/foto51.jpg", cargo: "Analista de BI", resumo: "Dashboards e KPIs.", localizacao: "São Paulo/SP", area: "BI", habilidadesTecnicas: ["Power BI", "SQL"], softSkills: ["Comunicação"], experiencias: [{ empresa: "BICorp", cargo: "Analista", inicio: "2019-01", fim: "2024-06", descricao: "Análises." }], formacao: [{ curso: "Economia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "BI vendas", link: "https://github.com/proj51", descricao: "Dashboard." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["BI"] },
+id: 51, nome: "Zilda Menezes", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Analista de BI", resumo: "Dashboards e KPIs.", localizacao: "São Paulo/SP", area: "BI", habilidadesTecnicas: ["Power BI", "SQL"], softSkills: ["Comunicação"], experiencias: [{ empresa: "BICorp", cargo: "Analista", inicio: "2019-01", fim: "2024-06", descricao: "Análises." }], formacao: [{ curso: "Economia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "BI vendas", link: "https://github.com/proj51", descricao: "Dashboard." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["BI"] },
 {
 id: 52, nome: "Arthur Neri", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Dev Ruby", resumo: "APIs Rails.", localizacao: "São Paulo/SP", area: "Desenvolvimento", habilidadesTecnicas: ["Ruby", "Rails"], softSkills: ["Foco"], experiencias: [{ empresa: "RubyCorp", cargo: "Dev", inicio: "2018-02", fim: "2024-06", descricao: "Back-end Rails." }], formacao: [{ curso: "Sistemas", instituicao: "UNIP", ano: 2017 }], projetos: [{ titulo: "API Ruby", link: "https://github.com/proj52", descricao: "API REST." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Rails", "Backend"] },
 {
-id: 53, nome: "Brenda Lima", foto: "./images/foto53.jpg", cargo: "Dev iOS", resumo: "Swift e UIKit.", localizacao: "São Paulo/SP", area: "Mobile", habilidadesTecnicas: ["Swift", "UIKit"], softSkills: ["Criatividade"], experiencias: [{ empresa: "AppTech", cargo: "Dev", inicio: "2020-01", fim: "2024-06", descricao: "Apps iOS." }], formacao: [{ curso: "Computação", instituicao: "Mackenzie", ano: 2019 }], projetos: [{ titulo: "App iOS", link: "https://github.com/proj53", descricao: "Aplicativo." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["iOS"] },
+id: 53, nome: "Brenda Lima", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Dev iOS", resumo: "Swift e UIKit.", localizacao: "São Paulo/SP", area: "Mobile", habilidadesTecnicas: ["Swift", "UIKit"], softSkills: ["Criatividade"], experiencias: [{ empresa: "AppTech", cargo: "Dev", inicio: "2020-01", fim: "2024-06", descricao: "Apps iOS." }], formacao: [{ curso: "Computação", instituicao: "Mackenzie", ano: 2019 }], projetos: [{ titulo: "App iOS", link: "https://github.com/proj53", descricao: "Aplicativo." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["iOS"] },
 {
 id: 54, nome: "Carlos Prado", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Dev Android", resumo: "Kotlin avançado.", localizacao: "São Paulo/SP", area: "Mobile", habilidadesTecnicas: ["Kotlin", "Jetpack"], softSkills: ["Comunicação"], experiencias: [{ empresa: "DroidLab", cargo: "Dev", inicio: "2019-02", fim: "2024-06", descricao: "Apps Android." }], formacao: [{ curso: "Engenharia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "App Android", link: "https://github.com/proj54", descricao: "Projeto." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Android"] },
 {
-id: 55, nome: "Diana Lopes", foto: "./images/foto55.jpg", cargo: "Dev JavaScript", resumo: "Node e React.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["Node", "React"], softSkills: ["Criatividade"], experiencias: [{ empresa: "JSHub", cargo: "Dev", inicio: "2021-01", fim: "2024-06", descricao: "Web apps." }], formacao: [{ curso: "Sistemas", instituicao: "Uninove", ano: 2020 }], projetos: [{ titulo: "Web app", link: "https://github.com/proj55", descricao: "Projeto." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Web"] },
+id: 55, nome: "Diana Lopes", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Dev JavaScript", resumo: "Node e React.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["Node", "React"], softSkills: ["Criatividade"], experiencias: [{ empresa: "JSHub", cargo: "Dev", inicio: "2021-01", fim: "2024-06", descricao: "Web apps." }], formacao: [{ curso: "Sistemas", instituicao: "Uninove", ano: 2020 }], projetos: [{ titulo: "Web app", link: "https://github.com/proj55", descricao: "Projeto." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Básico" }], areaInteresses: ["Web"] },
 {
 id: 56, nome: "Eduardo Campos", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Engenheiro QA", resumo: "Testes automatizados.", localizacao: "São Paulo/SP", area: "Qualidade", habilidadesTecnicas: ["Cypress", "Selenium"], softSkills: ["Detalhismo"], experiencias: [{ empresa: "QALab", cargo: "QA", inicio: "2019-01", fim: "2024-06", descricao: "Testes web." }], formacao: [{ curso: "Engenharia", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Test suite", link: "https://github.com/proj56", descricao: "Testes." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["QA"] },
 {
-id: 57, nome: "Fernanda Ribeiro", foto: "./images/foto57.jpg", cargo: "Cientista de Dados", resumo: "Estatística aplicada.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["R", "Python"], softSkills: ["Lógica"], experiencias: [{ empresa: "DataWorks", cargo: "Cientista", inicio: "2020-01", fim: "2024-06", descricao: "Modelos." }], formacao: [{ curso: "Estatística", instituicao: "USP", ano: 2019 }], projetos: [{ titulo: "Predição", link: "https://github.com/proj57", descricao: "Modelo." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["Estatística"] },
+id: 57, nome: "Fernanda Ribeiro", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "Cientista de Dados", resumo: "Estatística aplicada.", localizacao: "São Paulo/SP", area: "Dados", habilidadesTecnicas: ["R", "Python"], softSkills: ["Lógica"], experiencias: [{ empresa: "DataWorks", cargo: "Cientista", inicio: "2020-01", fim: "2024-06", descricao: "Modelos." }], formacao: [{ curso: "Estatística", instituicao: "USP", ano: 2019 }], projetos: [{ titulo: "Predição", link: "https://github.com/proj57", descricao: "Modelo." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["Estatística"] },
 {
 id: 58, nome: "Gabriel Monteiro", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "Dev C#", resumo: "APIs e sistemas.", localizacao: "São Paulo/SP", area: "Tecnologia", habilidadesTecnicas: ["C#", "SQL"], softSkills: ["Organização"], experiencias: [{ empresa: "SysCorp", cargo: "Dev", inicio: "2018-01", fim: "2024-06", descricao: "Sistemas." }], formacao: [{ curso: "Computação", instituicao: "USCS", ano: 2017 }], projetos: [{ titulo: "Sistema X", link: "https://github.com/proj58", descricao: "Projeto." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["Backend"] },
 {
-id: 59, nome: "Helena Martins", foto: "./images/foto59.jpg", cargo: "UX Designer", resumo: "Experiência do usuário.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["Figma", "UX"], softSkills: ["Empatia"], experiencias: [{ empresa: "DesignCorp", cargo: "Designer", inicio: "2020-01", fim: "2024-06", descricao: "UX." }], formacao: [{ curso: "Design", instituicao: "SENAC", ano: 2019 }], projetos: [{ titulo: "App UX", link: "https://github.com/proj59", descricao: "UX case." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["UX"] },
+id: 59, nome: "Helena Martins", foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg", cargo: "UX Designer", resumo: "Experiência do usuário.", localizacao: "São Paulo/SP", area: "Design", habilidadesTecnicas: ["Figma", "UX"], softSkills: ["Empatia"], experiencias: [{ empresa: "DesignCorp", cargo: "Designer", inicio: "2020-01", fim: "2024-06", descricao: "UX." }], formacao: [{ curso: "Design", instituicao: "SENAC", ano: 2019 }], projetos: [{ titulo: "App UX", link: "https://github.com/proj59", descricao: "UX case." }], certificacoes: [], idiomas: [{ idioma: "Inglês", nivel: "Intermediário" }], areaInteresses: ["UX"] },
 {
 id: 60, nome: "Igor Santos", foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg", cargo: "SRE Engineer", resumo: "Confiabilidade e automação.", localizacao: "São Paulo/SP", area: "DevOps", habilidadesTecnicas: ["Kubernetes", "Docker"], softSkills: ["Comunicação"], experiencias: [{ empresa: "OpsCo", cargo: "SRE", inicio: "2019-04", fim: "2024-06", descricao: "Ambientes críticos." }], formacao: [{ curso: "Computação", instituicao: "USP", ano: 2018 }], projetos: [{ titulo: "Observabilidade", link: "https://github.com/proj60", descricao: "Monitoramento." }], certificacoes: ["CKA"], idiomas: [{ idioma: "Inglês", nivel: "Avançado" }], areaInteresses: ["SRE"] }]
