@@ -52,7 +52,7 @@ areaInteresses: ["Design inclusivo", "Experiência do usuário"]
 {
 id: 3,
 nome: "Carla Nogueira",
-foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
+foto: "https://jornalpontomais.com/site/wp-content/uploads/2024/08/o-que-as-pessoas-bonitas-tem-em-comum-2.jpg",
 cargo: "Cientista de Dados",
 resumo: "Modelagem estatística e machine learning.",
 localizacao: "Belo Horizonte/MG",
@@ -77,7 +77,7 @@ areaInteresses: ["Machine Learning", "Data Ethics"]
 {
 id: 4,
 nome: "Diego Santos Ferreira",
-foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg",
+foto: "https://curtamais.com.br/goiania/wp-content/uploads/sites/2/2024/12/f8ddef_fa048fc675d64d2d856feff3d63537a2mv2.webp",
 cargo: "Desenvolvedor Mobile",
 resumo: "Especializado em apps Android e iOS.",
 localizacao: "Curitiba/PR",
@@ -100,7 +100,7 @@ areaInteresses: ["Automação", "Mobile First"]
 {
 id: 5,
 nome: "Eduarda Cruz",
-foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
+foto: "https://s46920.pcdn.co/wp-content/uploads/2020/01/gesta%CC%83o-de-pessoas--2048x1365.jpg.webp",
 cargo: "Gerente de Projetos",
 resumo: "Experiência em metodologias ágeis.",
 localizacao: "Brasília/DF",
@@ -123,7 +123,7 @@ areaInteresses: ["Metodologias Ágeis", "Gestão de Pessoas"]
 {
 id: 6,
 nome: "Felipe Moura",
-foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg",
+foto: "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
 cargo: "DevOps Engineer",
 resumo: "Automação e infraestrutura em nuvem.",
 localizacao: "Fortaleza/CE",
@@ -146,7 +146,7 @@ areaInteresses: ["Cloud", "SRE", "Infraestrutura"]
 {
 id: 7,
 nome: "Gabriela Lima",
-foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
+foto: "https://www.eusemfronteiras.com.br/wp-content/uploads/2017/04/shutterstock_1910141359-810x540.jpg.webp",
 cargo: "Analista de Marketing Digital",
 resumo: "Expert em tráfego pago e branding.",
 localizacao: "Salvador/BA",
@@ -169,7 +169,7 @@ areaInteresses: ["Branding", "Growth"]
 {
 id: 8,
 nome: "Henrique Assis",
-foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg",
+foto: "https://ignicaodigital.com.br/wp-content/uploads/2016/05/Qual-eCC81-o-Perfil-do-Empreendedor.jpg",
 cargo: "Arquiteto de Software",
 resumo: "Projetando sistemas escaláveis.",
 localizacao: "São Paulo/SP",
@@ -192,7 +192,7 @@ areaInteresses: ["Microservices", "Cloud Native"]
 {
 id: 9,
 nome: "Isabela Rocha",
-foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
+foto: "https://s2-oglobo.glbimg.com/6Jszzah_XGYop6I173dS4OE4lGQ=/0x107:2362x1557/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/7/BTZjbdREKYomgDBUVfIQ/jenn-granneman-5.jpg",
 cargo: "Product Owner",
 resumo: "Conecta negócio e tecnologia.",
 localizacao: "Belo Horizonte/MG",
@@ -215,7 +215,7 @@ areaInteresses: ["Product Thinking", "UX"]
 {
 id: 10,
 nome: "João Pedro Almeida",
-foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg",
+foto: "https://cajamar.sp.gov.br/noticias/wp-content/uploads/sites/2/2021/08/site-vacinacao-26-anos.png",
 cargo: "Front-end Developer",
 resumo: "Focado em interfaces modernas.",
 localizacao: "Porto Alegre/RS",
@@ -238,7 +238,7 @@ areaInteresses: ["UI", "Arquitetura Front-end"]
 {
 id: 11,
 nome: "Karla Menezes",
-foto: "https://www.leiaja.com/wp-content/uploads/2025/08/Dove-Cameron.jpg",
+foto: "https://blog.unyleya.edu.br/wp-content/uploads/2017/12/saiba-como-a-educacao-ajuda-voce-a-ser-uma-pessoa-melhor.jpeg",
 cargo: "QA Engineer",
 resumo: "Especialista em testes automatizados.",
 localizacao: "Natal/RN",
@@ -261,7 +261,7 @@ areaInteresses: ["Testes automatizados", "Qualidade"]
 {
 id: 12,
 nome: "Lucas Freitas",
-foto: "https://dicionariompb.com.br/wp-content/uploads/2021/04/luan-santana-e1640563543767.jpeg",
+foto: "https://static1.purebreak.com.br/articles/7/10/01/97/@/404673-homem-mais-bonito-do-mundo-o-ator-henry-580x0-2.jpg",
 cargo: "Engenheiro de Machine Learning",
 resumo: "Modelos de IA aplicados ao mercado financeiro.",
 localizacao: "São Paulo/SP",
