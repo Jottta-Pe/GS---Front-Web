@@ -1,5 +1,5 @@
 export default function Suporte() {
   return (
-    <div className="bg-[#bdebce] font-serif h-10 text-2xl">Suporte</div>
+    <div className="bg-[#bdebce] dark:bg-[#2b382b] dark:text-white font-serif h-10 text-2xl flex items-center px-4 transition-colors">Suporte</div>
   )
 }

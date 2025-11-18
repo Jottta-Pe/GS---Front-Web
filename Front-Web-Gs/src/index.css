@@ -1,9 +1,10 @@
 @import 'tailwindcss';
 
-@custom-variant dark (&:where(.dark, .dark*));
-
 html,
 body,
 #root {
     height: 100%;
 }
+
+/* Dark mode variant for Tailwind v4 */
+@variant dark (&:where(.dark, .dark *));
