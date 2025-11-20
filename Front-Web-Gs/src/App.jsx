@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 function App() {
   const [theme, setTheme] = useState("light");
 
-  // Alternar tema
   const toggleTheme = () => {
     const newTheme = theme === "light" ? "dark" : "light";
     setTheme(newTheme);
@@ -13,7 +12,6 @@ function App() {
     localStorage.setItem("theme", newTheme);
   };
 
-  // Carregar tema salvo
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme") || "light";
     setTheme(storedTheme);
@@ -24,7 +22,6 @@ function App() {
   return (
     <div className="h-full min-h-screen flex flex-col items-center justify-center transition-all ease-in-out dark:bg-gray-700">
 
-      {/* 🔥 BOTÃO FIXADO NO CANTO SUPERIOR DIREITO */}
       <button
         onClick={toggleTheme}
         className="fixed top-4 right-4 z-50
@@ -37,7 +34,6 @@ function App() {
         {theme === "light" ? <Moon size={22} /> : <Sun size={22} />}
       </button>
 
-      {/* Mensagem no centro */}
       <div className="text-lg dark:text-white mt-10">
         {theme === "light"
           ? "🌞 Bright mode activated"
